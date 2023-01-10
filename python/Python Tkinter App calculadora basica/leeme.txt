@@ -1,0 +1,5 @@
+Este proyecto fue hecho siguiendo el tutorial del canal de youtube Mundo Python
+el link del proyecto es el siguiente: 
+	https://www.youtube.com/watch?v=nh0Jeclyvt8
+el link del canal es el siguiente:
+	https://www.youtube.com/@MundoPython
